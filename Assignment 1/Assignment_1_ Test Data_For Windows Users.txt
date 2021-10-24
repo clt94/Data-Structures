@@ -1,0 +1,42 @@
+City Name  Latitude  Longitude
+
+Columbus: 39.9611, -83.0015
+
+Cleveland: 41.4996, -81.6961
+
+Cincinnati: 39.1032, -84.5118
+
+Toledo: 41.664, -83.555
+
+Akron: 41.0815, -81.519
+
+Dayton: 39.7589, -84.1912
+
+Parma: 41.3919, -81.7286
+
+Canton: 40.7992, -81.3783
+
+Youngstown: 41.0998, -80.6495
+
+Lorain: 41.4528, -82.1824
+
+Hamilton: 39.3995, -84.5614
+
+Springfield: 39.9242, -83.8088
+
+Kettering: 39.6972, -84.1522
+
+Elyria: 41.3684, -82.1077
+
+Lakewood: 41.482, -81.7982
+
+Cuyahoga Falls: 41.134, -81.4846
+
+Euclid: 41.5931, -81.5268
+
+Middletown: 39.515, -84.3983
+
+Mansfield: 40.7586, -82.5155
+
+Newark: 40.0581, -82.4013
+
